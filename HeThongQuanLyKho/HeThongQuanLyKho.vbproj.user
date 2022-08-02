@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Frm_DangNhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_DonVi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_HoaDon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_HopDong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_HopDong_Action.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_HopDong_Index.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_KhachHang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_KhoHang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_LoaiHang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_LoaiNguoiDung_Action.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_LoaiNguoiDung_Index.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_MatHang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_MH_Chinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_NguoiDung_Action.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_NguoiDung_Index.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_PhieuNhapHang_Action.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_PhieuNhapHang_Index.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_PhieuThu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_PhieuTinhTien_Action.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_PhieuTinhTien_BangTinhChiTiet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_PhieuTinhTien_Index.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_PhieuXuatHang_Action.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_PhieuXuatHang_Index.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GioiThieu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IntTextBox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="NTextBox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
